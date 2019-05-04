@@ -79,14 +79,14 @@ nav ul li a{
 	grid-template-columns: 2fr 2fr 1fr;
 	grid-template-rows: 2fr 1fr;
 	grid-gap:.5em;
-	grid-auto-rows: minmax(auto 500px);
+	grid-auto-rows: minmax(auto 1000px);
 	/*grid-row*/
 }
 
 .main-box{
 grid-column:1/5;
 background-image: url('images/PHOTO-2019-05-04-13-58-00.jpg');
-background-size: cover;
+background-size: 1000px 1000px;
 vertical-align: text-bottom;
 
 
