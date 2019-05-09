@@ -86,7 +86,7 @@ nav ul li a{
 .main-box{
 grid-column:1/5;
 background-image: url('images/PHOTO-2019-05-04-13-58-00.jpg');
-background-size: cover;
+background-size: 1000px 1100px;
 backgroun-repeat: no;
 vertical-align: text-bottom;
 
@@ -95,7 +95,6 @@ vertical-align: text-bottom;
 
 .main-header{
 	text-align: center;
-	padding:30px;
 	font-size: 60px;
 	font-family: Pacifico;
 	text-shadow: 4px 2px 3px #000;
