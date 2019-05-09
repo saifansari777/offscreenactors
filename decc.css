@@ -95,8 +95,8 @@ vertical-align: text-bottom;
 
 .main-header{
 	text-align: center;
-	vertical-align: bottom;
-	font-size: xx-large;
+	padding:30px;
+	font-size: 60px;
 	font-family: Pacifico;
 	text-shadow: 4px 2px 3px #000;
 	color: white;
