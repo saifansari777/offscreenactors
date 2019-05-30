@@ -75,15 +75,18 @@ nav ul li a{
 .banner-wrap{
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: 5fr 2fr auto;
 	/*grid-row*/
 }
 
 .main-box{
 grid-column:1/5;
+grid-row:1/4;
 background-image: url('images/PHOTO-2019-05-04-13-58-00.jpg');
 background-repeat: no-repeat;
 background-position: center;
-height: 400px;
+height:100%;
+width: 100%;
 background-size: cover ;
 background-color: rbga(180, 180, 180, 0.5);
 background-blend-mode: multiply;
